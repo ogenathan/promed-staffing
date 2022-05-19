@@ -4737,7 +4737,7 @@ input[type="button"].btn-block {
 }
 
 @media (min-width: 768px) {
-  .navbar-expand-md {
+  .-md {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -webkit-flex-flow: row nowrap;
@@ -10778,7 +10778,6 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #008dff !important;
-  font-size: 1.5rem;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10835,7 +10834,6 @@ a.text-light:hover, a.text-light:focus {
 
 .text-dark {
   color: #343a40 !important;
-  font-size: 1.5em;
 }
 
 a.text-dark:hover, a.text-dark:focus {
